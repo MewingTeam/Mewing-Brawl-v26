@@ -1,8 +1,6 @@
 Welcome to mewing brawl🖐
 
-Mewing Brawl- Open source private server on classic brawl v26
-We are modified/upgraded this and other version
-Fixed and more..
+Mewing Brawl - Open source private server on classic brawl v26
 
 How run mewing brawl?
 
@@ -14,4 +12,4 @@ TinydDB
 
 Open Main.py and run.
 
-Enjoy!
+News&Apk - [here](https://t.me/mewingteam2)
